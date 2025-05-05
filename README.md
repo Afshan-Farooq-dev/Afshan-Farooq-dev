@@ -1,71 +1,86 @@
-# 👋 Hi, I'm Afshan Farooq
+# Afshan Farooq
 
-## 🚀 AI & ML Engineer | Python Developer | Web Developer
+> *AI & ML Engineer | Frontend Developer | Problem Solver*
 
-![Header Image](https://img.shields.io/badge/AI-Machine%20Learning-gold?style=for-the-badge) ![Header Image](https://img.shields.io/badge/Python-Development-blue?style=for-the-badge) ![Header Image](https://img.shields.io/badge/Web-Development-orange?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afshan-farooq-459a1531b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afshanfarooq53@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Afshan-Farooq-dev)
 
-I'm an aspiring AI & ML Engineer with a passion for building intelligent applications and web solutions. Currently pursuing my undergraduate degree at Lahore Garrison University with a CGPA of 3.69/4.0.
+## 👋 About Me
 
-## 💻 Skills
+Dedicated AI & Machine Learning Engineer with a strong foundation in Python development and front-end technologies. Currently pursuing my undergraduate degree at Lahore Garrison University with a 3.69/4.0 CGPA. Passionate about leveraging artificial intelligence to build innovative solutions that solve real-world problems.
+
+## 🛠️ Technical Skills
 
 ```
-🔹 Python Development     ████████▓░  85%
-🔹 HTML                   █████████░  90%
-🔹 CSS                    ████████▓░  85%
-🔹 JavaScript             ████████░░  80%
-🔹 Web Development        ███████░░░  70%
-🔹 AI & Machine Learning  ██████▓░░░  65%
-🔹 Database               ██████░░░░  60%
+├── Languages
+│   ├── Python (Advanced)
+│   ├── JavaScript (Proficient)
+│   ├── HTML/CSS (Advanced)
+│   ├── C++ 
+│   └── Java
+│
+├── AI & Machine Learning
+│   ├── LangChain
+│   ├── LLM Integration
+│   ├── Prompt Engineering
+│   ├── Vector Databases (PGVector)
+│   └── Hugging Face Models
+│
+├── Web Development
+│   ├── Front-end (jQuery, Bootstrap)
+│   └── Streamlit
+│
+├── Databases
+│   └── PostgreSQL
+│
+└── Tools & Technologies
+    ├── Git & GitHub
+    ├── VS Code
+    ├── Email Automation (SMTP)
+    └── API Integration (Groq)
 ```
 
-## 🔍 About Me
+## 🚀 Projects
 
-I have hands-on experience with frontend tools like jQuery and Bootstrap, and I'm proficient in programming languages such as C++, Python, and Java. My expertise includes:
+### 🩺 AI Doctor Assistant App
+*Apr 2025 - Present*
 
-- 🤖 AI-based projects using LangChain, LLM Integration, and Prompt Engineering
-- 📧 Email Automation using SMTP in Python
-- 📊 Data visualization and web app development with Streamlit
-- 🗃️ Database management with PostgreSQL
-- 🛠️ Version control with Git & GitHub
+An AI-powered medical assistant built with Python, LangChain, and Groq API. The application analyzes symptoms, suggests appropriate medical specialists, and manages appointments through database integration and automated email notifications.
 
-I also bring strong soft skills including Remote Collaboration, Communication, Time Management, and Problem Solving.
+### 📄 Resume Analyzer
+A LangChain-based intelligent resume analysis tool leveraging Hugging Face models, PGVector, and Groq LLM. Features include PDF parsing, vector embedding for document analysis, and real-time Q&A capabilities through a user-friendly Streamlit interface.
 
-## 🏆 Projects
+### 🧠 Eazehan
+A comprehensive psychological support platform enabling users to seek anonymous help from professional psychologists. The platform also serves as a valuable resource hub for research students in psychology.
 
-### AI Doctor Assistant App (Apr 2025 - Present)
-Built an AI-powered medical assistant using Python, LangChain, and Groq API to analyze symptoms, suggest specialists, and manage appointments with database and email integration.
+## 💼 Professional Experience
 
-### Resume Analyzer - LangChain-Based Smart Application
-Built an intelligent resume analysis tool using Langchain, Hugging Face models, PGVector, and Groq LLM. Enabled PDF parsing, vector embedding, and real-time Q&A via a Streamlit interface.
-
-### Eazehan - Psychological Support Platform
-Developed Eazehan, a platform allowing users to seek anonymous help from professional psychologists. The platform also serves as a resource for research students in psychology.
+**Recruiter** | *Oct 2024 - Feb 2025*
+- Utilized LinkedIn Recruiter to source and shortlist candidates
+- Analyzed profiles based on job requirements
+- Managed candidate communication and follow-ups
+- Collaborated with hiring teams to understand role expectations
 
 ## 📚 Education & Certifications
 
-- 🎓 Undergraduate at Lahore Garrison University (Expected 2026)
-- 📜 AI & Machine Learning (March 2025)
-- 📜 Web Development (June 2023 - Dec 2024)
+- **Undergraduate** | Lahore Garrison University (Expected 2026)
+  - CGPA: 3.69/4.0
 
-## 💼 Experience
+- **AI & Machine Learning Certification** | March 2025
 
-### Recruiter (Oct 2024 - Feb 2025)
-- Used LinkedIn Recruiter to source and shortlist suitable candidates
-- Analyzed profiles based on job requirements
-- Sent personalized outreach messages
-- Collaborated with hiring teams to understand role expectations
+- **Web Development Certification** | June 2023 - Dec 2024
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/afshan-farooq-459a1531b)
-[![Email Badge](https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white&color=D14836)](mailto:afshanfarooq53@gmail.com)
-
-## 📊 GitHub Stats
-
-![Afshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afshan-Farooq-dev&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afshan-Farooq-dev&layout=compact&theme=tokyonight)
+I'm always interested in collaborating on innovative projects, particularly those involving AI and machine learning. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/afshan-farooq-459a1531b) or [email](mailto:afshanfarooq53@gmail.com).
 
 ---
 
-<p align="center">📍 Lahore, Pakistan | 📱 03091112099 | ✉️ afshanfarooq53@gmail.com</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Afshan-Farooq-dev&show_icons=true&theme=github_dark" alt="Afshan's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afshan-Farooq-dev&theme=github-dark-blue" alt="Afshan's GitHub Streak" />
+</p>
